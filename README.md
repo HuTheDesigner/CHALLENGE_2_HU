@@ -8,7 +8,7 @@ The gap we are trying to close is to make a lovely and easy to read CSV File tha
 Using Python, we have modular functionality for clean and consice code.
 We also utilize libraries to call on company and bank data to make quick corrections as needed.
 Operating on Mac OS 10.14 we utilize the latest Operating system to construct the software.
-Depending on Jupyter Lab to run and correct our code, Our Developer environment of Anacoda 
+Depending on Jupyter Lab to run and correct our code, Our Developer environment of Anacoda we utilize the most reliable tools!
 ---
 
 
